@@ -1,0 +1,33 @@
+.content{
+    position: relative;
+  text-align: center;
+}
+.TAR{
+    position: absolute;
+    top: 30%;
+    left: 80%;
+  }
+  .im{
+    position: absolute;
+    top: 0%;
+    left: 40;
+  }
+  #pag{
+    position: relative;
+  }
+  .bar{
+    background-color: rgb(255, 208, 0)
+  }
+  b{
+    color:  rgb(40,116,166);
+  }
+  .ra{
+    font-size: smaller;
+  }
+  table
+{
+    border-collapse: collapse;
+}
+.t1{
+  float: right;
+}
